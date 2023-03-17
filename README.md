@@ -1,15 +1,13 @@
-## Hi there 👋
 <div>
 <img src="https://content-dump-3.s3.ap-south-1.amazonaws.com/saurabh/sp.jpg" style="border-radius:50%; width:15%">
 </div>
 <div>
     <a href="https://github.com/saurabh0719/">Github</a> | <a href="https://www.linkedin.com/in/saurabh0719/">Linkedin</a> | <a href="https://twitter.com/saurabhpujari19">Twitter</a>
 </div>
-
 <br>
 
-My name is Saurabh Pujari. I'm a Software engineer and Entrepreneur. 
-I primarily build backend systems, working with python and occasionaly golang. 
+Hi there 👋, my name is Saurabh Pujari. I'm a Software engineer and Entrepreneur. 
+I primarily build backend systems, working with python and, occasionaly, golang. 
 
 #### Currently I'm working at - 
 - Software Engineer, Backend at [Avoma Inc.](https://www.avoma.com/) - Working on building the best AI enabled meeting assistant that makes your meeting lifecycle more productive and actionable. 📢
