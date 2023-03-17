@@ -4,7 +4,7 @@
 <div>
     <a href="https://github.com/saurabh0719/">Github</a> | <a href="https://www.linkedin.com/in/saurabh0719/">Linkedin</a> | <a href="https://twitter.com/saurabhpujari19">Twitter</a>
 </div>
-
+<p></p>
 Hi there 👋, my name is Saurabh Pujari. I'm a Software engineer and Entrepreneur. 
 I primarily build backend systems, working with python, postgres, AWS and, occasionaly, golang. 
 
@@ -21,9 +21,9 @@ I primarily build backend systems, working with python, postgres, AWS and, occas
 
 - **elara** - Elara DB is an easy to use, lightweight persistent key-value store that can also be used as a fast in-memory cache. Manipulate data structures in-memory, encrypt database files and export data. 📂 | [Website](https://saurabh0719.github.io/elara/) | [Github](https://github.com/saurabh0719/elara)
 
-- **go-hashlru** - A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm 🔃 | [Website](https://saurabh0719.github.io/go-hashlru/) | [Github](https://github.com/saurabh0719/go-hashlru)
+- **go-hashlru** - A simple thread-safe and fixed size LRU. Golang port of the [Hashlru Algorithm](https://github.com/dominictarr/hashlru), written originally by _dominictarr_ 🔃 | [Website](https://saurabh0719.github.io/go-hashlru/) | [Github](https://github.com/saurabh0719/go-hashlru)
 
-
+<p></p>
 Reach out to me to talk software engineering, football or food! :)
 
 <br>
