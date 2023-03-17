@@ -4,7 +4,6 @@
 <div>
     <a href="https://github.com/saurabh0719/">Github</a> | <a href="https://www.linkedin.com/in/saurabh0719/">Linkedin</a> | <a href="https://twitter.com/saurabhpujari19">Twitter</a>
 </div>
-<br>
 
 Hi there 👋, my name is Saurabh Pujari. I'm a Software engineer and Entrepreneur. 
 I primarily build backend systems, working with python, postgres, AWS and, occasionaly, golang. 
@@ -16,13 +15,13 @@ I primarily build backend systems, working with python, postgres, AWS and, occas
 
 #### Recent projects - 
 
-* **jett** - A lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  🚀 [Website](https://saurabh0719.github.io/jett/) | [Github](https://github.com/saurabh0719/jett)
+- **jett** - A lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  🚀 | [Website](https://saurabh0719.github.io/jett/) | [Github](https://github.com/saurabh0719/jett)
 
-* **object-tracker** - A pure python Object Change & History tracker. Monitor all changes in your object's lifecycle and trigger callback functions to capture them. 📝 [Website](https://saurabh0719.github.io/object-tracker/) | [Github](https://github.com/saurabh0719/object-tracker)
+- **object-tracker** - A pure python Object Change & History tracker. Monitor all changes in your object's lifecycle and trigger callback functions to capture them. 📝 | [Website](https://saurabh0719.github.io/object-tracker/) | [Github](https://github.com/saurabh0719/object-tracker)
 
-* **elara** - Elara DB is an easy to use, lightweight persistent key-value store that can also be used as a fast in-memory cache. Manipulate data structures in-memory, encrypt database files and export data. 📂 [Website](https://saurabh0719.github.io/elara/) | [Github](https://github.com/saurabh0719/elara)
+- **elara** - Elara DB is an easy to use, lightweight persistent key-value store that can also be used as a fast in-memory cache. Manipulate data structures in-memory, encrypt database files and export data. 📂 | [Website](https://saurabh0719.github.io/elara/) | [Github](https://github.com/saurabh0719/elara)
 
-* **go-hashlru** - A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm 🔃 [Website](https://saurabh0719.github.io/go-hashlru/) | [Github](https://github.com/saurabh0719/go-hashlru)
+- **go-hashlru** - A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm 🔃 | [Website](https://saurabh0719.github.io/go-hashlru/) | [Github](https://github.com/saurabh0719/go-hashlru)
 
 
 Reach out to me to talk software engineering, football or food! :)
