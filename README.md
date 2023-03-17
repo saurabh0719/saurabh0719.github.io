@@ -9,9 +9,9 @@ My name is Saurabh Pujari. I'm a Software engineer and Entrepreneur.
 I primarily build backend systems, working with python and occasionaly golang. 
 
 #### Currently I'm working at - 
-- [Avoma Inc](https://www.avoma.com/), _Software Engineer - Backend_ : Working on building the best AI enabled meeting assistant that makes your meeting lifecycle more productive and actionable. :loudspeaker:
+- Software Engineer, Backend at [Avoma Inc.](https://www.avoma.com/) - Working on building the best AI enabled meeting assistant that makes your meeting lifecycle more productive and actionable. :loudspeaker:
  
-- [Volume Stories](https://www.volumestories.com/), _Co-founder_ : Building a next-gen bite-sized reading platform that supercharges your personal growth. :chart_with_upwards_trend:
+- Co-founder [Volume Stories](https://www.volumestories.com/) - Building a next-gen bite-sized reading platform that supercharges your personal growth. :chart_with_upwards_trend:
 
 #### Recent projects - 
 
@@ -22,8 +22,7 @@ I primarily build backend systems, working with python and occasionaly golang.
 * [elara](https://github.com/saurabh0719/elara) - Elara DB is an easy to use, lightweight persistent key-value store that can also be used as a fast in-memory cache. Manipulate data structures in-memory, encrypt database files and export data. :dart:
 
 * [go-hashlru](https://github.com/saurabh0719/go-hashlru) - A simple thread-safe and fixed size LRU. Based on the Hashlru Algorithm :arrows_clockwise:
- 
-<br>
+
 
 Reach out to me to talk software engineering, football or food! :)
 
