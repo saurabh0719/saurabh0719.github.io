@@ -1,29 +1,26 @@
-<div>
-<img src="https://content-dump-3.s3.ap-south-1.amazonaws.com/saurabh/sp.jpg" style="border-radius:50%; width:15%">
+<div align="center" style="padding-top: 40px; padding-bottom: 40px;">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=D4AF37&width=435&lines=Hi+I'm+Saurabh+Pujari!;Backend+Engineer+%7C+Builder+%7C+Tinkerer)](https://github.com/saurabh0719)
+
 </div>
-<div>
-    <a href="https://github.com/saurabh0719/">Github</a> | <a href="https://www.linkedin.com/in/saurabh0719/">Linkedin</a> | <a href="https://twitter.com/saurabhpujari19">Twitter</a>
-</div>
-<p></p>
-Hi there 👋, my name is Saurabh Pujari. I'm a Software engineer and Entrepreneur. 
-I primarily build backend systems, working with python, postgres, AWS and, occasionaly, golang. 
 
-#### Currently I'm working at - 
-- Software Engineer, Backend at [Avoma Inc.](https://www.avoma.com/) - Working on building the best AI enabled meeting assistant that makes your meeting lifecycle more productive and actionable. 📢
- 
-- Co-founder [Volume Stories](https://www.volumestories.com/) - Building a next-gen bite-sized reading platform that supercharges your personal growth. 📈
+👋 Hey there! Welcome to my tiny space on the internet. I'm a Software Engineer based out of📍 Bangalore, India
 
-#### Recent projects - 
+- 🐙 [GitHub](https://github.com/saurabh0719)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh0719/)  
+- 🐦 [Twitter / X](https://twitter.com/saurabhpujari19)  
 
-- **jett** - A lightweight micro-framework for building Go HTTP services. Built on top of HttpRouter, enables subrouting and flexible addition of middleware at any level  🚀 | [Website](https://saurabh0719.github.io/jett/) | [Github](https://github.com/saurabh0719/jett)
 
-- **object-tracker** - A pure python Object Change & History tracker. Monitor all changes in your object's lifecycle and trigger callback functions to capture them. 📝 | [Website](https://saurabh0719.github.io/object-tracker/) | [Github](https://github.com/saurabh0719/object-tracker)
 
-- **elara** - Elara DB is an easy to use, lightweight persistent key-value store that can also be used as a fast in-memory cache. Manipulate data structures in-memory, encrypt database files and export data. 📂 | [Website](https://saurabh0719.github.io/elara/) | [Github](https://github.com/saurabh0719/elara)
+#### 🛠️ Recent Projects
 
-- **go-hashlru** - A simple thread-safe and fixed size LRU. Golang port of the [Hashlru Algorithm](https://github.com/dominictarr/hashlru), written originally by _dominictarr_ 🔃 | [Website](https://saurabh0719.github.io/go-hashlru/) | [Github](https://github.com/saurabh0719/go-hashlru)
+- [kiwi](https://github.com/saurabh0719/kiwi) - Interact with LLMs, generate commands, answer questions - all within the comfort of your terminal!
 
-<p></p>
-Reach out to me to talk software engineering, football or food! :)
+- [jett](https://github.com/saurabh0719/jett) — A lightweight Go micro-framework built on top of HttpRouter. Enables subrouting and flexible middleware.  
 
-<br>
+- [object-tracker](https://github.com/saurabh0719/object-tracker) — A Python library to track object lifecycle changes and trigger event callbacks.  
+
+- [elara](https://github.com/saurabh0719/elara) — Lightweight key-value store with encryption and in-memory caching. 
+
+
+
