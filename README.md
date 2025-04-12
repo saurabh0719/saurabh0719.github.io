@@ -1,7 +1,4 @@
 <div align="center" style="padding-top: 40px; padding-bottom: 40px;">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=D4AF37&width=435&lines=Hi+I'm+Saurabh+Pujari!;Backend+Engineer+%7C+Builder+%7C+Tinkerer)](https://github.com/saurabh0719)
-
 </div>
 
 👋 Hey there! Welcome to my tiny space on the internet. I'm a Software Engineer based out of📍 Bangalore, India
